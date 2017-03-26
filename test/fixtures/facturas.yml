@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cliente_id: 
+  fecha: 2017-03-25
+  monto: 9.99
+
+two:
+  cliente_id: 
+  fecha: 2017-03-25
+  monto: 9.99
